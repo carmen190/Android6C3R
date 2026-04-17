@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android6C3R</string>
+    <string name="un_jugador">1 Jugador</string>
+    <string name="dos_jugadores">2 jugador</string>
+    <string name="facil">Facil</string>
+    <string name="imposible">Imposible</string>
+    <string name="normal">Normal</string>
+    <string name="casilla">Empate</string>
+    <string name="circulo_gana">CIRCULOS_GANAN!</string>
+    <string name="aspas_gana">ASPAS_GANAN!</string>
+    <string name="empate">EMPATE!</string>
+</resources>
